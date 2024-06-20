@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">project7</string>
+    <string name="click">click to see list</string>
+    <array name="array_list">
+    <item>INDIA</item>
+    <item>RUSSIAN</item>
+    <item>QATAR</item>
+    <item>DUBAI</item>
+    <item>PAKISTAN</item>
+    <item>SWIZERLAND</item>
+    <item>THAILAND</item>
+    <item>MUMBAI</item>
+    <item>SEEPZ</item>
+    </array>
+</resources>
